@@ -80,11 +80,11 @@ Click WA logo to Join Support Group 👇
 ----|
    `Base, Bug Fixes, Modules`
 
-  [![Ajmal](https://i.imgur.com/0eDfjxn.jpeg)](https://github.com/Ajmal-Achu)[`Ajmal`](https://github.com/Ajmal-Achu)
+  [![Ajmal](https://i.imgur.com/0eDfjxn.jpeg)](https://github.com/Ajmal-Achu)[`Ajmal`](https://github.com/midhun-x3/Saniya-mowl)
 ----|
    `Re-Developer, Bug Fixes, Modules, Commits`
 
-   [![Achu](https://i.imgur.com/sKzm7EK.jpeg)](https://github.com/Ajmal-Achu)[`Achu`](https://github.com/Ajmal-Achu)
+   [![Achu](https://i.imgur.com/sKzm7EK.jpeg)](https://github.com/Ajmal-Achu)[`Achu`](https://github.com/midhun-x3/Saniya-mowl)
 ----|
    `Re-Developer, Bug Fixes, Modules, Commits`
 
